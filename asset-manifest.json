@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e07039f8.css",
+    "main.js": "/static/js/main.ecaac22e.js",
+    "static/js/415.1b909aac.chunk.js": "/static/js/415.1b909aac.chunk.js",
+    "static/js/787.66844337.chunk.js": "/static/js/787.66844337.chunk.js",
+    "static/media/bg1.gif": "/static/media/bg1.41061faf05d037e18138.gif",
+    "static/media/wave_hii.gif": "/static/media/wave_hii.b707317f672c167912b3.gif",
+    "static/media/boltAni.gif": "/static/media/boltAni.38f468a5ecf2891dbb17.gif",
+    "static/media/Moonie.pdf": "/static/media/Moonie.cb2d2374b7573425be0d.pdf",
+    "static/media/logo_nine_99-fotor-bg-remover-20240322234237.png": "/static/media/logo_nine_99-fotor-bg-remover-20240322234237.098406546229063915e7.png",
+    "static/media/about112.png": "/static/media/about112.48ffae51ea97ced6b2c5.png",
+    "index.html": "/index.html",
+    "main.e07039f8.css.map": "/static/css/main.e07039f8.css.map",
+    "main.ecaac22e.js.map": "/static/js/main.ecaac22e.js.map",
+    "415.1b909aac.chunk.js.map": "/static/js/415.1b909aac.chunk.js.map",
+    "787.66844337.chunk.js.map": "/static/js/787.66844337.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e07039f8.css",
+    "static/js/main.ecaac22e.js"
+  ]
+}
